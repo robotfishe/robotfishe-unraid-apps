@@ -11,7 +11,7 @@
   <Project/>
   <Overview>Runs scrcpy and x11vnc to allow you to control an Android device over a VNC connection.</Overview>
   <Category>Tools</Category>
-  <WebUI>http://[IP]:[PORT:5900]
+  <WebUI>http://[IP]:[PORT:5900]</WebUI>
   <TemplateURL/>
   <Icon>https://github.com/Genymobile/scrcpy/raw/master/app/data/icon.svg</Icon>
   <ExtraParams/>
